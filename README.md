@@ -1,7 +1,7 @@
 # hospital-api
 A hospital api app for registration/login of doctors,registration of patients,creating reports,showing reports,and showing status.
 
-* Router used
+Router used
 * /doctors/register → with username and password
 * /doctors/login → returns the JWT to be used
 * /patients/register
