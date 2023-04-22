@@ -15,6 +15,6 @@ A hospital api app for registration/login of doctors,registration of patients,cr
 * Express
 * MongoDb
 * Passport
-* jsonwebtoke
+* jsonwebtoken
 * passport-jwt
 * dotenv
